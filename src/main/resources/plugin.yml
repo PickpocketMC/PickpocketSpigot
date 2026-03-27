@@ -1,0 +1,6 @@
+name: Pickpocket
+version: '0.0.0-ALPHA'
+main: com.ilove.pickpocket.Pickpocket
+api-version: '1.21'
+authors: [ ILove ]
+description: Allows players to secretly access and steal items from other players' inventories
